@@ -20,3 +20,11 @@ WhatsApp Demo App is design and built using swift language. App is created progr
 - Any Database or Framework is not used to built this app.
 - Project is still work in progress.
 - App is functional, free and ready to use.
+
+## Application ScreenShots
+
+[![Chats-Page.png](https://i.postimg.cc/W1tzbZZP/Chats-Page.png)](https://postimg.cc/v4Fb0cXP)
+
+[![Status-Page.png](https://i.postimg.cc/wM0x9xTv/Status-Page.png)](https://postimg.cc/dZZcBYCP)
+
+[![Calls-Page.png](https://i.postimg.cc/BQ7ZyvV7/Calls-Page.png)](https://postimg.cc/RNfzJv9w)
